@@ -1,3 +1,13 @@
+# :warning: **There are better ways to do this** :warning:
+
+It's much better to use a purpose made tool for this. Below is a (non-exhaustive) list of tools you could use instead (I use Cloudflare Pages):
+- Cloudflare Pages
+- GitHub Pages
+- AWS Amplify
+- Azure Static Web Apps
+
+I am keeping this archived repository around for posterity as it was made during a time when there was not many good options for static webpages.
+
 # StaticS3CloudFrontDeployment
 GitHub action to deploy repo to S3 and clear cloudfront cache
 
